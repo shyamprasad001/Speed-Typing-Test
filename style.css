@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to right, #f2ebfe, #dac0ff);
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    color: #690cb0;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.caption {
+    color: #3e4c59;
+    font-family: Roboto;
+}
+
+.clock-img {
+    height: 45px;
+}
+
+.timer-count {
+    font-size: 35px;
+    display: inline;
+}
+
+.timer-text {
+    font-size: 18px;
+    font-family: Roboto;
+    color: #3e4c59;
+}
+
+.quote-display {
+    background-color: #f3eaff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #9aa5b1;
+}
+
+.quote {
+    font-family: Roboto;
+    color: #323f4b;
+}
+
+.submit-button {
+    background-color: #690cb0;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.reset-button {
+    background-color: #ffffff;
+    color: #000000;
+    font-weight: 600;
+}
+
+.test-result {
+    font-family: Roboto;
+    color: #323f4b;
+    font-size: 20px;
+}
